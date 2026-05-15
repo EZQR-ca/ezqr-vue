@@ -1,7 +1,8 @@
 # ezqr-vue
 
-Vue 3 component that embeds the [EZQR free QR code generator](https://ezqr.ca) on your site.
+![](./ezqr-vue.png)
 
+Vue 3 component that embeds the [EZQR free QR code generator](https://ezqr.ca) on your site.
 
 ## Try it live
 
