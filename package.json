@@ -1,0 +1,43 @@
+{
+	"name": "ezqr-vue",
+	"version": "1.0.1",
+	"description": "Vue 3 component that embeds the EZQR free QR code generator on your site. Powered by https://ezqr.ca.",
+	"type": "module",
+	"main": "src/index.js",
+	"module": "src/index.js",
+	"exports": {
+		".": {
+			"import": "./src/index.js",
+			"default": "./src/index.js"
+		}
+	},
+	"files": [
+		"src",
+		"README.md",
+		"LICENSE"
+	],
+	"keywords": [
+		"vue",
+		"vue3",
+		"vue-component",
+		"qr",
+		"qr-code",
+		"qr-generator",
+		"qr-code-generator",
+		"embed",
+		"widget"
+	],
+	"peerDependencies": {
+		"vue": "^3.0.0"
+	},
+	"author": "ezqr.ca",
+	"license": "MIT",
+	"homepage": "https://ezqr.ca/embed-qr-generator",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ezqr-ca/ezqr-vue.git"
+	},
+	"bugs": {
+		"url": "https://github.com/ezqr-ca/ezqr-vue/issues"
+	}
+}
