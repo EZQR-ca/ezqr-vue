@@ -2,6 +2,7 @@
 
 Vue 3 component that embeds the [EZQR free QR code generator](https://ezqr.ca) on your site.
 
+
 ## Try it live
 
 The same embed this component renders, running on a few popular code-sandbox sites:
